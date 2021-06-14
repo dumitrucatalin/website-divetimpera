@@ -546,7 +546,7 @@ const contactPageData = {
     title: "Contact Us",
     profile_image_path: "logo_circle.png",
     description:
-      "We are available on almost every social media. You can message us, we will reply within 24 hours. We can help you with Android, iOS, macOS, Cloud and Opensource Development.",
+      "We are available on almost every social media. You can message us, we will reply within 24 hours. We can help you with Android, iOS, Cloud and Opensource Development.",
   },
   phoneSection1: {
     title: "Contact Stefan",
