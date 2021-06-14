@@ -143,77 +143,77 @@ const skills = {
         },
       ],
     },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Sketch",
-          fontAwesomeClassname: "simple-icons:sketch",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-      ],
-    },
-    {
-      title: "Video Editing",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Creating highly calitative videos",
-        "⚡ Customizing your videos and make them yours",
-        "⚡ Creating the flow of scenes to make it a pleasant video to watch",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe Premiere Pro",
-          fontAwesomeClassname: "simple-icons:adobepremierepro",
-          style: {
-            color: "#9532a8",
-          },
-        },
-        {
-          skillName: "Adobe After Effects",
-          fontAwesomeClassname: "simple-icons:adobeaftereffects",
-          style: {
-            color: "#df42fc",
-          },
-        },
-        {
-          skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "simple-icons:adobephotoshop",
-          style: {
-            color: "#4a45f5",
-          },
-        },
-        {
-          skillName: "Adobe Lightroom",
-          fontAwesomeClassname: "simple-icons:adobelightroom",
-          style: {
-            color: "#3b658f",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "simple-icons:adobexd",
+    //       style: {
+    //         color: "#FF2BC2",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Sketch",
+    //       fontAwesomeClassname: "simple-icons:sketch",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: "Video Editing",
+    //   fileName: "FullStackImg",
+    //   skills: [
+    //     "⚡ Creating highly calitative videos",
+    //     "⚡ Customizing your videos and make them yours",
+    //     "⚡ Creating the flow of scenes to make it a pleasant video to watch",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe Premiere Pro",
+    //       fontAwesomeClassname: "simple-icons:adobepremierepro",
+    //       style: {
+    //         color: "#9532a8",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe After Effects",
+    //       fontAwesomeClassname: "simple-icons:adobeaftereffects",
+    //       style: {
+    //         color: "#df42fc",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Photoshop",
+    //       fontAwesomeClassname: "simple-icons:adobephotoshop",
+    //       style: {
+    //         color: "#4a45f5",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Lightroom",
+    //       fontAwesomeClassname: "simple-icons:adobelightroom",
+    //       style: {
+    //         color: "#3b658f",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
